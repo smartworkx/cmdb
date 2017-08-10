@@ -3,7 +3,7 @@
         "deployments": [
             {
                 "id": "admin-web",
-                "version": 123
+                "version": 201735102035
             },
             {
                 "id": "admin-api",
