@@ -1,0 +1,14 @@
+{
+    "kubernetes": {
+        "deployments": [
+            {
+                "id": "admin-web",
+                "version": 123
+            },
+            {
+                "id": "admin-api",
+                "version": 123
+            }
+        ]
+    }
+}
